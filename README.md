@@ -1,4 +1,4 @@
-# Hi there, I'm Saul! 👋
+# Hi there, I'm Saúl! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/saulmrto?label=Follow%20me&style=social)](https://github.com/saulmrto)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/saulmrto/)](https://www.linkedin.com/in/saulmrto/)
@@ -8,14 +8,10 @@ Welcome to my GitHub profile! I'm Saul, a passionate developer with a love for c
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Project/Technology]**
-- 🤔 I’m looking for help with **[Problem/Project]**
-- 💬 Ask me about **[Topics]**
+- 🔭 I’m currently working on **my personal proyects**
+- 🌱 I’m currently learning **javascript**
 - 📫 How to reach me: **[Email Address]**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **[Interesting Fact]**
 
 ## 🛠️ Technologies & Tools
 
@@ -31,27 +27,10 @@ Welcome to my GitHub profile! I'm Saul, a passionate developer with a love for c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-[![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulmrto&show_icons=true&theme=radical)](https://github.com/saulmrto)
-
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saulmrto&repo=repo1&theme=radical)](https://github.com/saulmrto/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saulmrto&repo=repo2&theme=radical)](https://github.com/saulmrto/repo2)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://blog.com/post1)
-- [Post 2](https://blog.com/post2)
-- [Post 3](https://blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/saulmrto](https://www.linkedin.com/in/saulmrto/)
 - Twitter: [twitter.com/saulmrto](https://twitter.com/saulmrto)
-- Email: [saulmrto@example.com](mailto:saulmrto@example.com)
+- Email: [saulmrto@gmail.com](mailto:saulmrto@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😄
