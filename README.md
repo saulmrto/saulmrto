@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm Saul, a passionate developer with a love for c
 
 - 🔭 I’m currently working on **my personal proyects**
 - 🌱 I’m currently learning **javascript**
-- 📫 How to reach me: **[Email Address]**
 - 😄 Pronouns: **He/Him**
 
 ## 🛠️ Technologies & Tools
@@ -31,6 +30,5 @@ Welcome to my GitHub profile! I'm Saul, a passionate developer with a love for c
 
 - LinkedIn: [linkedin.com/in/saulmrto](https://www.linkedin.com/in/saulmrto/)
 - Twitter: [twitter.com/saulmrto](https://twitter.com/saulmrto)
-- Email: [saulmrto@gmail.com](mailto:saulmrto@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😄
