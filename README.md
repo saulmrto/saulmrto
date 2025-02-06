@@ -15,6 +15,5 @@ Welcome to my GitHub profile! I'm Saul, a passionate developer with a love for c
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/saulmrto](https://www.linkedin.com/in/saulmrto/)
-- Twitter: [twitter.com/saulmrto](https://twitter.com/saulmrto)
 
 Thanks for visiting my profile! Have a great day! 😄
