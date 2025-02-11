@@ -18,7 +18,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/world.gif">
+<img alt="Globe" height="100" src="images/world.gif">
 </a>
 </p>
 
@@ -49,11 +49,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/saulmrto/count.svg)
 
-
+<!---
 <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="images/noframes.gif" alt="Microsoft Internet Explorer" />
-
+--->
 </div>
