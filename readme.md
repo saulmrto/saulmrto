@@ -18,7 +18,7 @@
 
 <p>
 
-<img alt="Globe" height="100" src="images/world.gif">
+<img alt="Globe" height="80" src="images/world.gif">
 </a>
 </p>
 
