@@ -1,59 +1,34 @@
-<div align="center">
-  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my profile" />
-  <br />
-  <br />
-  <img height="50" alt="My name is Saúl Morato and i'm learning JavaScript and web development" src="images/me.png" />
-  <br />
-  <br />
-</div>
+# Saúl Morato
 
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://saulmrto.github.io">
-<strong>Visit my webpage for more information</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/world.gif">
-</a>
+<p align="left">
+  <a href="https://saulmrto.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-saulmrto.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio Web"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saulmrto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-saulmrto-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-</td>
+Desarrollador de software con un enfoque principal en el desarrollo backend. Resido en Tampico, Tamaulipas, México.
 
+## Proyectos Destacados
 
-<td align="center">
-<a href="https://www.youtube.com/watch?v=tgKMf2r96o0&ab_channel=ZeldaSwitch">
-<strong>Some good music to focus</strong>
-<br />
-<br />
+A continuación, se presentan dos componentes de un sistema integrado para la gestión de correos electrónicos:
 
+1.  **[pop3mail-downloader](https://github.com/saulmrto/pop3mail-downloader)**: Herramienta desarrollada para la descarga de correos electrónicos utilizando el protocolo POP3.
+2.  **[maileml-viewer](https://github.com/saulmrto/maileml-viewer)**: Aplicación diseñada para la visualización de archivos de correo electrónico en formato .eml, complementando la funcionalidad de `pop3mail-downloader`.
 
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
+Estos proyectos reflejan mi interés en la creación de soluciones de software funcionales y eficientes.
 
-</td>
-</tr>
-</table>
+## Intereses Profesionales
 
+Mi principal área de interés es el desarrollo backend, explorando continuamente nuevas tecnologías y metodologías para la construcción de sistemas robustos y escalables.
 
-<div align="center">
+## Contacto
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
-<br />
+* **LinkedIn:** [saulmrto](https://www.linkedin.com/in/saulmrto/)
+* **Sitio Web Profesional:** [saulmrto.github.io](https://saulmrto.github.io/)
 
-![Visitor Count](https://profile-counter.glitch.me/saulmrto/count.svg)
+---
 
-<!---
-<img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="images/noframes.gif" alt="Microsoft Internet Explorer" />
---->
-</div>
+[![Saulmrto's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulmrto&show_icons=true&theme=radical)](https://github.com/saulmrto)
