@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Saulmrto
+# Hi there 👋 I'm Saúl Morato
 
 🎓 **Student** | 🐍 **Python Enthusiast**  
 _"Just chilling"_ and exploring the world of code.
