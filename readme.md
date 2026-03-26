@@ -1,26 +1,18 @@
-# Hola, soy Saúl 👋
+# Hola, soy Saúl Morato de Tamaulipas, México 👋
 
-> Desarrollador apasionado por la IA.
+Estoy aprendiendo programación web y administración de servidores Linux.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **[Administracion de servidores VPS]**
-- 🌱 Estoy aprendiendo **[Python, NodeJS y Linux]**
-
-## 🛠️ Tecnologías y Herramientas
-
-<!-- Puedes listar tus lenguajes aquí -->
-* **Lenguajes:** Python, JavaScript, HTML, CSS, NodeJS
-* **Herramientas:** Git, VS Code
-* **Otros:** Linux
-
+- 🔭 Actualmente estoy trabajando en **[Administracion de servidores Linux]**
+- 🌱 Estoy aprendiendo **[HTML, CSS y JS]**
 ## 🔗 Conecta conmigo
 
 <!-- Enlaces a tus redes sociales -->
 - [LinkedIn](https://www.linkedin.com/in/saulmrto)
-- [Portfolio / Web Personal](https://saulmrto.is-a.dev)
+- [Portfolio / Web Personal](https://saulmrto.netlify.app)
 
 ---
 
