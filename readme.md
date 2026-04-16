@@ -1,21 +1,7 @@
-# Hola, soy Saúl Morato de Tamaulipas, México 👋
+<font size="5">Hola, soy Saúl Morato.</font>
+<br>
 
-Estoy aprendiendo programación web y administración de servidores Linux.
-
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente estoy trabajando en **[Administracion de servidores Linux]**
-- 🌱 Estoy aprendiendo **[HTML, CSS y JS]**
-## 🔗 Conecta conmigo
-
-<!-- Enlaces a tus redes sociales -->
-- [LinkedIn](https://www.linkedin.com/in/saulmrto)
-- [Portfolio / Web Personal](https://saulmrto.netlify.app)
-
----
-
-<p align="center">
-  <i>¡Gracias por visitar mi perfil!</i>
-</p>
+<font size="4">Estoy aprendiendo programación web y administración de servidores Linux.</font>
+<br>
+<br>
+![Mi gif todo bonito](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2drOXEwcHNndWRvczl6NXEzMmFpb2t0a203ZTczNDYwdWY4eWprdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
